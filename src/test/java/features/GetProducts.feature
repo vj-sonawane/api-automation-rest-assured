@@ -13,3 +13,5 @@ Feature: Get all products from FakeStoreAPI
       Examples:
         | rate |
         | 3.9  |
+
+
